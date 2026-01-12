@@ -33,7 +33,9 @@
     "lint": "eslint \"src/**/*.ts\" --fix",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:cov": "jest --coverage"
+    "test:cov": "jest --coverage",
+    "start": "nest start",
+    "start:dev": "nest start --watch "
   },
   "dependencies": {},
   "devDependencies": {
