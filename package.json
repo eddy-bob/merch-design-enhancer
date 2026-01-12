@@ -1,6 +1,6 @@
 {
   "name": "merch-design-enhancer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform product images into boutique-style mockups using AI while preserving the original design",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
